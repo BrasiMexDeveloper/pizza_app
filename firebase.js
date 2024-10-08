@@ -4,13 +4,13 @@ import { getFirestore } from 'firebase/firestore';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDU8ukZU8xk3nxixlp7CPqsXf87o8k9VaE",
-    authDomain: "pizza-r-n.firebaseapp.com",
-    projectId: "pizza-r-n",
-    storageBucket: "pizza-r-n.appspot.com",
-    messagingSenderId: "413627459435",
-    appId: "1:413627459435:web:23bad8c68d79d4e7fc4e2e",
-    measurementId: "G-9SR24G1KMX"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 let FIREBASE_APP;
